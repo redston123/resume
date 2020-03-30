@@ -39,7 +39,7 @@
 
 h1 {
   font-size: var(--x5l-size);
-  color: #adb8b5;
+  color: #6434eb;
   margin-bottom: 0; }
 
 h1, h2, h3, h4, h5, h6 {
@@ -51,7 +51,7 @@ h2 {
   border-bottom: dashed 4px #ffde08;
   font-size: var(--xxl-size);
   margin-bottom: var(--xl-size);
-  color: #adb8b5; }
+  color: #3434eb; }
 
 h3 {
   font-size: var(--lg-size);
