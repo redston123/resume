@@ -183,7 +183,7 @@ body {
   margin: 0;
 
   .left {
-    width: 100%;
+    width: 50%;
     height: 100vh;
     box-shadow: 5px 0 5px -5px $box-shadow;
     background-image: url($photo);
@@ -206,7 +206,7 @@ body {
       position: absolute;
       top: 0;
       left: 0;
-      width: 100%;
+      width: 150%;
       height: 100vh;
       background-color: lighten($black, 15%);
       z-index: 1;
