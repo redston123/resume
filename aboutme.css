@@ -358,8 +358,8 @@ body {
   body {
     flex-direction: row; }
     body .left {
-      width: 42.86%;
+      width: 22.86%;
       position: fixed; }
     body .right {
-      margin-left: 42.86%;
+      margin-left: 62.86%;
       padding: var(--lg-size) var(--xxxl-size); } }
